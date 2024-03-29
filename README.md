@@ -1,6 +1,8 @@
 # todo_app
 
 My first todo app in flutter
+<img width="370" alt="image" src="https://github.com/imwaa/todo-app/assets/69726409/bf7ec071-8c85-4124-b131-60942fa1d4ca">
+
 
 ## Getting Started
 
